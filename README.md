@@ -1,1 +1,1 @@
-"""Utilisation de mistral & instructor-xl pour question/answer ainsi que resume"""
+###Utilisation de mistral & instructor-xl pour question/answer ainsi que resume###
